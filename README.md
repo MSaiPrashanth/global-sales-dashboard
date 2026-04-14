@@ -65,14 +65,11 @@ Built interactive dashboard containing:
 
 global-sales-dashboard/
 │
-├── data/
-│ └── sales_data_sample.csv
+│──sales_data_sample.csv
 │
-├── python-analysis/
-│ └── sales_analysis.py
+├──sales_analysis.py
 │
-├── powerbi-dashboard/
-│ └── Global_Sales_Dashboard.pbix
+├── Global_Sales_Dashboard.pbix
 │
 ├── images/
 │ ├── dashboard_screenshot.png
@@ -88,8 +85,8 @@ global-sales-dashboard/
 
 (Add dashboard screenshot here)
 
-Example:
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+
+
 
 ---
 
