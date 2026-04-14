@@ -82,8 +82,8 @@ global-sales-dashboard/
 ---
 
 ## Dashboard Preview
-![Dashboard](Images/dashboard_screenshort.png)
-![Dashboard](Images/dashboard_screenshort_year_2004.png)
+![Dashboard](sales_data/Images/dashboard_screenshort.png)
+![Dashboard](sales_data/Images/dashboard_screenshort_year_2004.png)
 
 
 
